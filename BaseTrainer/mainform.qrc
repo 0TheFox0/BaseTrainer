@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="MainForm">
+    <file>Resources/disk.png</file>
+    <file>Resources/folder.png</file>
+    <file>Resources/robot.png</file>
+  </qresource>
+</RCC>
